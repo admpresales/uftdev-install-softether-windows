@@ -1,0 +1,14 @@
+## above was created based on VisualStudio
+## below is what was added for Intellij
+gherkinNGAResults.xml_
+OctaneGherkinResults.xml
+leanftResults.xml
+RunResults/
+gherkin-results/
+#the models get generated automatically with the appmodel-generator-mojo plugin so they can be removed from commits
+appmodels/
+
+# Intellij
+.idea/*
+*.iml
+*.iws
