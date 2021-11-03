@@ -7,6 +7,7 @@ RunResults/
 gherkin-results/
 #the models get generated automatically with the appmodel-generator-mojo plugin so they can be removed from commits
 appmodels/
+out/
 
 # Intellij
 .idea/*
