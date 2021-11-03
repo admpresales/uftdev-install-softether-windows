@@ -7,7 +7,6 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import com.hp.lft.sdk.*;
-import com.hp.lft.verifications.*;
 
 import unittesting.*;
 
